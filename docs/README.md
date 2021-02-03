@@ -1,1 +1,1 @@
-This script is my code for the Team Treehouse Full Stack Javascript Tech-Degree course(project 4). The html and css for this project is provided by Treehouse and I have not manipulated the HTML/CSS markup.(Javascript code I wrote was used to manipulate CSS).
+I am responsible for the JavaScript of this project, the HTML/CSS for this project is a template I used for implementing functionality. This project is made with ES6 object oriented programming and allows user to input letters with mouse or keyboard to guess letters of a random phrase.
